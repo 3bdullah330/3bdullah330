@@ -69,7 +69,7 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
 <a href="https://mkhboys-my.sharepoint.com/personal/s2055744_mkhb_moe_gov_sa/_layouts/15/stream.aspx?id=%2Fpersonal%2Fs2055744%5Fmkhb%5Fmoe%5Fgov%5Fsa%2FDocuments%2F%D9%85%D9%86%D8%B5%D8%A9%20%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A7%D8%AA%20%2D%20Google%20Chrome%201444%2D10%2D14%2006%2D15%2D13%2Emp4&referrer=OneDriveForBusiness&referrerScenario=OpenFile">Courses project</a>
 </h4>
 <h4>
-<a href="https://mkhboys-my.sharepoint.com/personal/s2055744_mkhb_moe_gov_sa/_layouts/15/stream.aspx?id=%2Fpersonal%2Fs2055744%5Fmkhb%5Fmoe%5Fgov%5Fsa%2FDocuments%2Flocalhost%5F3000%20%2D%20Google%20Chrome%201445%2D03%2D04%2013%2D47%2D46%2Emp4&referrer=OneDriveForBusiness&referrerScenario=OpenFile">E-gallery</a>
+<a href="https://fascinating-sfogliatella-b33ee8.netlify.app/">E-gallery</a>
 </h4>
 <h4>
 <a href="https://mkhboys-my.sharepoint.com/personal/s2055744_mkhb_moe_gov_sa/_layouts/15/stream.aspx?id=%2Fpersonal%2Fs2055744%5Fmkhb%5Fmoe%5Fgov%5Fsa%2FDocuments%2Flocalhost%5F3000%5Fuser%5Fexams%5Flist%20%2D%20Google%20Chrome%201444%2D12%2D26%2022%2D13%2D58%2Emp4&referrer=OneDriveForBusiness&referrerScenario=OpenFile">An application that serves education</a>
