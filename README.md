@@ -102,12 +102,12 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
 
 <h4>
 <a href="https://startling-creponne-c10414.netlify.app/">Exam creator</a>
+</h4>
 <p>
   A project designed to streamline the exam creation process for educators. <br />
   It is a responsive web design. <br />
   Technologies Used: NuxtJS, Pinia, SCSS, TS, FastAPI(Python), And MariaDB.
 </p>
-  
-</h4>
+
 </div>
 </div>
