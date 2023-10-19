@@ -54,26 +54,60 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
 <h4>
 <a href="https://3bdullah330.github.io/Kasper/">Kasper</a>
 </h4>
+<p>
+  I utilized the HTML and CSS knowledge I acquired during a project I was involved in. <br />
+  It is a responsive web design. <br />
+  Technologies Used: HTML And CSS.
+</p>
+
 <h4>
 <a href="https://3bdullah330.github.io/Elzero">Elzero</a>
 </h4>
+<p>
+  I utilized the HTML and CSS knowledge I acquired during a project I was involved in. <br />
+  It is a responsive web design. <br />
+  Technologies Used: HTML And CSS.
+</p>
+
 <h4>
-<a href="https://3bdullah330.github.io/Third-Project/">Third-Project</a>
+<a href="https://3bdullah330.github.io/Third-Project/">Leon</a>
 </h4>
+<p>
+  I utilized the knowledge I acquired during a project I was involved in. <br />
+  It is a responsive web design. <br />
+  Technologies Used: HTML, SCSS And JS.
+</p>
 </div>
 
 <div>
 <h3>Full-stack projects</h3>
 
 <h4>
-<a href="https://mkhboys-my.sharepoint.com/personal/s2055744_mkhb_moe_gov_sa/_layouts/15/stream.aspx?id=%2Fpersonal%2Fs2055744%5Fmkhb%5Fmoe%5Fgov%5Fsa%2FDocuments%2F%D9%85%D9%86%D8%B5%D8%A9%20%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A7%D8%AA%20%2D%20Google%20Chrome%201444%2D10%2D14%2006%2D15%2D13%2Emp4&referrer=OneDriveForBusiness&referrerScenario=OpenFile">Courses project</a>
+<a href="[https://mkhboys-my.sharepoint.com/personal/s2055744_mkhb_moe_gov_sa/_layouts/15/stream.aspx?id=%2Fpersonal%2Fs2055744%5Fmkhb%5Fmoe%5Fgov%5Fsa%2FDocuments%2F%D9%85%D9%86%D8%B5%D8%A9%20%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A7%D8%AA%20%2D%20Google%20Chrome%201444%2D10%2D14%2006%2D15%2D13%2Emp4&referrer=OneDriveForBusiness&referrerScenario=OpenFile](https://mkhboys-my.sharepoint.com/:v:/g/personal/s2055744_mkhb_moe_gov_sa/EYcQKkuI_6NLi1QTkcVoGjYB4elVcH2ApmYYfVIzRSSG1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=HyAa9R)https://mkhboys-my.sharepoint.com/:v:/g/personal/s2055744_mkhb_moe_gov_sa/EYcQKkuI_6NLi1QTkcVoGjYB4elVcH2ApmYYfVIzRSSG1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=HyAa9R">Courses project</a>
 </h4>
+<p>
+  This project offers an organizational service to schools that conduct in-school courses and face challenges due to a high number of students seeking registration for the course. <br />
+  It is a responsive web design. <br />
+  Technologies Used: VueJS, SCSS, And FastAPI(Python).
+</p>
+
 <h4>
 <a href="https://fascinating-sfogliatella-b33ee8.netlify.app/">E-gallery</a>
 </h4>
+<p>
+  This project serves as an E-gallery showcase for a paint company, an integrated dashboard. <br />
+  It is a responsive web design. <br />
+  Technologies Used: NuxtJS, Pinia, SCSS, TS, FastAPI(Python), And Mysql.
+</p>
+
 <h4>
-<a href="https://startling-creponne-c10414.netlify.app/">An application that serves the education</a>
-<div>Note: This app is not completed.</ي>
+<a href="https://startling-creponne-c10414.netlify.app/">Exam creator</a>
+<p>
+  A project designed to streamline the exam creation process for educators. <br />
+  It is a responsive web design. <br />
+  Technologies Used: NuxtJS, Pinia, SCSS, TS, FastAPI(Python), And MariaDB.
+</p>
+  
 </h4>
 </div>
 </div>
