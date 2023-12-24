@@ -67,7 +67,7 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
 <p>
   I utilized the HTML and CSS knowledge I acquired during a project I was involved in. <br /> https://3bdullah330.github.io/Elzero
   It is a responsive web design. <br />
-  Technologies Used: HTML And CSS. >br />
+  Technologies Used: HTML And CSS. <br />
   <a href="https://3bdullah330.github.io/Elzero">Click here</a>
 </p>
 
