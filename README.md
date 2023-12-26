@@ -98,13 +98,15 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
 </p>
 
 <h4>
-<a href="https://mellow-biscotti-e23f10.netlify.app/">E-gallery</a>
+<a href="https://mepaints.com/">Middle East Paints</a>
 </h4>
 <p>
-  This project serves as an E-gallery showcase for a paint company, an integrated dashboard. <br />
+  This project serves as a Landing-Page for a real paint company.
+  <br />
   It is a responsive web design. <br />
-  Technologies Used: NuxtJS, Pinia, SCSS, TS, FastAPI(Python), And Mysql. <br />
-  <a href="https://mellow-biscotti-e23f10.netlify.app/">Click here</a>
+  Technologies Used: NuxtJS, SCSS, TS.
+  <br />
+  <a href="https://mepaints.com/">Click here</a>
 </p>
 
 <h4>
