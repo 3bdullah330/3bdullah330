@@ -116,7 +116,7 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
   A project designed to streamline the exam creation process for educators. <br />
   It is a responsive web design. <br />
   Technologies Used: NuxtJS, Pinia, SCSS, TS, FastAPI(Python), And MariaDB. <br />
-  <a href="https://fascinating-sfogliatella-b33ee8.netlify.app/">Click here</a>
+  <a href="https://startling-creponne-c10414.netlify.app/">Click here</a>
 </p>
 
 </div>
