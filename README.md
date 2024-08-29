@@ -5,7 +5,7 @@
 <div>
 <h2 style="color: 000;">Brief about me</h2>
 <p>
-Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen interest in computer science and information technology. He is currently in his final year of high school.
+Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen interest in computer science and information technology.
 </p>
 </div>
 
