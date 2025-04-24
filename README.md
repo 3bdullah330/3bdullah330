@@ -98,7 +98,7 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
 </p>
 
 <h4>
-<a href="https://mepaints.com/">Middle East Paints</a>
+<a href="https://mepaints-theme2.netlify.app/">Middle East Paints</a>
 </h4>
 <p>
   This project serves as a Landing-Page for a real paint company.
@@ -106,7 +106,7 @@ Abdullah Barakat Bamshmous, a Yemeni residing in Saudi Arabia, possesses a keen 
   It is a responsive web design. <br />
   Technologies Used: NuxtJS, SCSS, TS.
   <br />
-  <a href="https://mepaints.com/">Click here</a>
+  <a href="https://mepaints-theme2.netlify.app/">Click here</a>
 </p>
 
 <h4>
